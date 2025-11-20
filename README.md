@@ -1,4 +1,4 @@
- <img src="https://files.catbox.moe/avjy42.png" width="200" height="200" border="10"/>     
+<img align="center" src="https://files.catbox.moe/avjy42.png">
 </p>
 
 <!--
